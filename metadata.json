@@ -1,0 +1,6 @@
+{
+  "name": "Algorithmic Trading Bot & Dashboard",
+  "description": "A full-stack multi-asset algorithmic trading bot and backtesting engine for Cryptocurrencies, Forex, Stocks, Gold, and Silver, featuring live performance monitoring, secure API integrations for JIFO and FTMO, and custom technical indicator strategies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
